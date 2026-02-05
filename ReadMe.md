@@ -30,7 +30,7 @@
 - 🔭 **Current Arc:** Learning to design reliable agentic systems.
 - 👯 **Allies Wanted:** Collaborators for beginner-friendly AI automation workflows.
 - 🌱 **Training In:** Agentic AI, Python, Prompt Engineering, and Orchestration.
-- 💬 **Summon Me For:** Getting started with LLMs, Anime + AI combos.
+- 💬 **Summon Me For:** Getting started with LLMs + AI combos.
 - ⚡ **Ultimate Move:** Breaking complex problems into simple systems (and watching Anime).
 
 <br clear="right"/>
