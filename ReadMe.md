@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/t1P2LqWqOAAAAAAC/goku-transform.gif" width="100%" style="border-radius: 15px; border: 3px solid #F28500; box-shadow: 0px 0px 20px #F28500;" alt="Goku Transformation">
+<img src="https://media1.tenor.com/m/t1P2LqWqOAAAAAAC/goku-transform.gif" width="100%" style="border-radius: 15px; border: 3px solid #F28500; box-shadow: 0px 0px 25px #F28500;" alt="Goku Transformation">
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=750&height=100&lines=Hey+There!+I'm+Abdul+Basit;Agentic+AI+Developer+%7C+Prompt+Engineer;But+you+can+also+call+me+Kako;I+also+go+by+the+name+of+JANAB+KAKAROT;Building+Systems+with+LLMs+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=F28500&center=true&vCenter=true&width=750&height=100&lines=👋+Hey+There!+I'm+Abdul+Basit;🤖+Agentic+AI+Developer+%7C+Prompt+Engineer;✨+But+you+can+also+call+me+Kako;🔥+I+also+go+by+the+name+of+JANAB+KAKAROT;🚀+Building+Systems+with+LLMs+%26+Automation" alt="Typing SVG" />
 </a>
 
 <h3>❝ I’m more interested in how AI thinks than just outputs. ❞</h3>
@@ -22,15 +22,15 @@
 
 ### 💫 Character Profile:
 
-<img align="right" src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="180" style="border-radius: 12px; border: 2px solid #00BFFF;" alt="Goku Ultra Instinct">
+<img align="right" src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="180" style="border-radius: 12px; border: 2px solid #00BFFF; box-shadow: 0px 0px 10px #00BFFF;" alt="Goku Ultra Instinct">
 
 **🚀 Mission Status:**
-> Currently masterminding **Autonomous AI Agents** and **LLM Orchestration**. 
+> Currently masterminding **Autonomous AI Agents** and **LLM Orchestration**.
 
 - 🔭 **Current Arc:** Learning to design reliable agentic systems.
 - 👯 **Allies Wanted:** Collaborators for beginner-friendly AI automation workflows.
 - 🌱 **Training In:** Agentic AI, Python, Prompt Engineering, and Orchestration.
-- 💬 **Summon Me For:** Getting started with LLMs + AI combos.
+- 💬 **Summon Me For:** Getting started with LLMs, Anime + AI combos.
 - ⚡ **Ultimate Move:** Breaking complex problems into simple systems (and watching Anime).
 
 <br clear="right"/>
@@ -180,6 +180,9 @@
 </a>
 <a href="mailto:abasitbaloch619@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://discord.com/">
+  <img src="https://img.shields.io/badge/Discord-janab__kakarot-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 </div>
