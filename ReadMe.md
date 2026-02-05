@@ -1,21 +1,105 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Learning to design and experiment with autonomous AI agents using LLMs<br><br>(Safe even if you’re just starting — “learning + experimenting” is key.)<br><br>👯 I’m looking to collaborate on<br><br>Beginner-friendly projects involving AI agents, automation, or LLM workflows<br><br>🤝 I’m looking for help with<br><br>Best practices for building reliable agentic systems and tool-using agents<br><br>🌱 I’m currently learning<br><br>Agentic AI, LLM orchestration, prompt engineering, and Python<br><br>(Very realistic and respectable.)<br><br>💬 Ask me about<br><br>AI agents, learning paths in Agentic AI, or getting started with LLMs<br><br>⚡ Fun fact<br><br>Pick one of these (don’t overthink it):<br><br>I enjoy breaking problems into systems before writing code<br><br>I’m more interested in how AI thinks than just outputs<br><br>I learn best by building small experiments<br><br>Anime + AI is a surprisingly good combo
+<div align="center">
 
+<img src="https://media1.tenor.com/m/t1P2LqWqOAAAAAAC/goku-transform.gif" width="100%" style="border-radius: 10px;" alt="Goku Transformation">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/janabkakarot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-basit-3b23a1250) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@janab_kakarot) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abasitbaloch619) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ABDULBASIT-tu6bq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abasitbaloch619@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F28500&center=true&vCenter=true&width=500&height=100&lines=Hey+There!+I'm+Abdul+Basit;Agentic+AI+Developer+%7C+Prompt+Engineer;But+you+can+also+call+me+Kako;I+also+go+by+the+name+of+JANAB+KAKAROT;Creating+Systems+with+LLMs+%26+Automation" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abasitbaloch&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abasitbaloch&theme=rose_pine&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abasitbaloch&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h3>❝ I’m more interested in how AI thinks than just outputs. ❞</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_Level-Over_9000-orange?style=for-the-badge&logo=dragon-ball&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mode-Super_Saiyan-yellow?style=for-the-badge&logo=lightning&logoColor=black" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abasitbaloch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 💫 About Me:
+
+<img align="right" src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="180" alt="Goku Ultra Instinct">
+
+**🚀 Mission Status:**
+> Currently experimenting with **Autonomous AI Agents** and **LLM Orchestration**. I enjoy breaking problems into systems before writing code. 
+
+- 🔭 **Working on:** Designing reliable agentic systems.
+- 👯 **Collaborating on:** Beginner-friendly AI automation & LLM workflows.
+- 🌱 **Learning:** Agentic AI, Python, and Prompt Engineering.
+- 💬 **Ask me about:** Getting started with LLMs, Anime + AI combos.
+- ⚡ **Fun Fact:** I learn best by building small experiments (and watching anime).
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Arsenal & Tech Stack:
+
+<div align="center">
+
+**💻 Languages & Core**
+<br>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**⚡ AI & Agentic Tools**
+<br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude CLI](https://img.shields.io/badge/Claude_CLI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Speckit Dev](https://img.shields.io/badge/Speckit_Dev-2D3748?style=for-the-badge&logo=confluence&logoColor=white)
+
+**⚙️ Frameworks & Libraries**
+<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**🖥️ IDEs & Environment**
+<br>
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=robot&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-Import-blue?style=for-the-badge&logo=python&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Power Levels (Stats):
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=abasitbaloch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abasitbaloch&theme=tokyonight&hide_border=true)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abasitbaloch&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+### 🌐 Transmission Channels:
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/janabkakarot) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-basit-3b23a1250) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@janab_kakarot) 
+[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/abasitbaloch619) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@ABDULBASIT-tu6bq)
+
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://media1.tenor.com/m/Yx8cZv7Ff2kAAAAC/goku-bye.gif" width="100" alt="Goku flying away">
+  <br>
+  <i>"See you on the next commit!"</i>
+</div>
