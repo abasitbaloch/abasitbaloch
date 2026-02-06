@@ -22,7 +22,7 @@
 
 ### 💫 Character Profile:
 
-<img align="right" src="https://github.com/user-attachments/assets/4b1d9d99-1a87-41a9-8c17-5a762200cd34" width="180" style="border-radius: 12px; border: 2px solid #00BFFF; box-shadow: 0px 0px 10px #00BFFF;" alt="Goku Ultra Instinct">
+<img align="right" src="https://github.com/user-attachments/assets/074fc30d-6282-40b8-bab3-2f6a0301f8e7" width="180" style="border-radius: 12px; border: 2px solid #00BFFF; box-shadow: 0px 0px 10px #00BFFF;" alt="Goku Ultra Instinct">
 
 **🚀 Mission Status:**
 > Currently masterminding **Autonomous AI Agents** and **LLM Orchestration**.
